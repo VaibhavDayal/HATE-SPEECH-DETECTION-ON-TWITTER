@@ -34,9 +34,7 @@ scores, TF-IDF matrix, N-grams, sentiment scores, and  Dependency -based  featur
 - After Executing all the Python Files GO for the Next Step .
 
 - Run the Main File WHich Named as *hate_speech_detection_final.py* File. 
-- 
 - it will take some time cause of large data set .
-
  *
  -Vaibhav Dayal
 
