@@ -29,7 +29,7 @@ scores, TF-IDF matrix, N-grams, sentiment scores, and  Dependency -based  featur
 
 - STEPS -
 
-- First of all run All the python files which is stored in *FEATURE ENGINEERING SCRIPS* folder . 
+- First of all run All the python files which is stored in *FEATURE ENGINEERING SCRIPTS* folder . 
 
 - After Executing all the Python Files GO for the Next Step .
 
