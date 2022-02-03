@@ -29,10 +29,13 @@ scores, TF-IDF matrix, N-grams, sentiment scores, and  Dependency -based  featur
 
 - STEPS -
 
-(1) - First of all run All the python files which is stored in *FEATURE ENGINEERING SCRIPS* folder . 
-(2) - After Executing all the Python Files GO for the Next Step .
-(3) - Run the Main File WHich Named as *hate_speech_detection_final.py* File. 
-(4) - it will take some time cause of large data set .
+- First of all run All the python files which is stored in *FEATURE ENGINEERING SCRIPS* folder . 
+
+- After Executing all the Python Files GO for the Next Step .
+
+- Run the Main File WHich Named as *hate_speech_detection_final.py* File. 
+- 
+- it will take some time cause of large data set .
 
  *
  -Vaibhav Dayal
